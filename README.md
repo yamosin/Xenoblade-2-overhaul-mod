@@ -127,13 +127,10 @@ Lv4 8>6
 - 改变仇恨降低类技能；如果它确实没什么用就更换成其他特效
 - 弹击球异刃，尤其是火花，现在拥有团队方面的支援技能
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbd23d2-9203-4161-a0d4-adc2382ab639/Untitled.png
 
 - 增加反击技能的倍率+1000%使其更有价值
 
 ### #0 焰
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72324937-a973-45f1-8054-0cb800631023/Untitled.png)
 
 **属性**
 
@@ -168,8 +165,6 @@ https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbd23d2-9203-4161-a
 ## E级异刃
 
 #51 **雷鼓**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16f10cd4-7e17-493f-baa9-d21411f9cd8e/Untitled.png)
 
 **属性**
 
@@ -231,7 +226,6 @@ https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbd23d2-9203-4161-a
 
 #50 白虎
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90a8ed1c-5679-405f-8a53-310da5cdad21/Untitled.png)
 
 **属性**
 
@@ -278,8 +272,6 @@ https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbd23d2-9203-4161-a
 生成回复瓶改为90%HP以上时增加伤害150%
 
 #49 伊吹
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c0c33bb-44c9-412e-a367-553299f2a0bb/Untitled.png)
 
 **属性**
 
@@ -328,8 +320,6 @@ aoe意味着现在此必杀可有效吸引仇恨
 如果敌人仇恨目标为自己，增加伤害100%
 
 #48 石榴
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41ea9642-ff3e-45e3-a04b-e177e3359c1b/Untitled.png)
 
 核心饰品槽：从1改为3
 
@@ -391,8 +381,6 @@ aoe意味着现在此必杀可有效吸引仇恨
 
 #47 红莲
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04a91304-bb7a-4f67-94a5-3bfd36e02eee/Untitled.png)
-
 **属性**
 
 核心饰品槽：从2改为3
@@ -440,8 +428,6 @@ aoe意味着现在此必杀可有效吸引仇恨
 新增特效对高等级敌人增伤+100%
 
 #46 萤
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0477779e-a77d-4459-b2b6-71f477f098ce/Untitled.png)
 
 **属性**
 
@@ -492,8 +478,6 @@ aoe意味着现在此必杀可有效吸引仇恨
 效果为团队回复伤害的50%改为+30%融合连击效果
 
 #45 结
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2d41ce6-d973-4152-bf78-419579921599/Untitled.png)
 
 **属性**
 
@@ -557,8 +541,6 @@ HP修正 从10%改为15%
 
 #44 月
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b53f990e-8c27-4280-96f7-1b463d8a1695/Untitled.png)
-
 **属性**
 
 核心饰品槽 2改为3
@@ -606,8 +588,6 @@ HP修正 从10%改为15%
 效果从为团队回复改为90%HP以上时增伤
 
 #43 绵津见
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74697fe5-f74b-4bd8-9626-ffb0f81c05d4/Untitled.png)
 
 **属性**
 
@@ -659,8 +639,6 @@ HP修正 从10%改为15%
 
 #42 七冰
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b0e3ffe-eabd-400d-a2a8-1087e49e814d/Untitled.png)
-
 **属性**
 
 核心饰品槽 2改为3
@@ -710,8 +688,6 @@ HP修正 从10%改为15%
 特效从团队回复改为背击+150%伤害
 
 #41 韦驮天
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b65d3ec0-b12a-4c31-a402-e823a55e6ebb/Untitled.png)
 
 **属性**
 
@@ -767,8 +743,6 @@ HP修正15%改为灵巧修正20%
 
 #39 重音
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d1ea20c-81ca-40f1-8152-626cc05eba6a/Untitled.png)
-
 **属性**
 
 盾锤统一增强
@@ -821,8 +795,6 @@ HP修正改为幸运修正15%
 
 #38 罗睺
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ecc5e42b-5bc0-4f73-bc59-d4c41e41d47a/Untitled.png)
-
 **属性**
 
 大炮强化：动画加速，暴击率增加
@@ -873,8 +845,6 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 
 #37 大锤
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef5caa2f-c0c4-4cf4-bab8-66c0dbeb1ee9/Untitled.png)
-
 **属性**
 
 武器 恶来 的暴击率从10%上调到15%，大锤锁定武器，原有面板暴击率过低，稍作提升
@@ -885,23 +855,17 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 
 #36 时叶
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a59c6cba-9f78-4089-9426-382cbdd4b573/Untitled.png)
-
 **战技**
 
 无音枪术：从自动攻击仇恨降低改为自动攻击速度提升15~50%，定位是“队友无法战斗时增伤、额外减伤”的特化攻击手，队友倒下后的“自动攻击仇恨降低”意义不明
 
 #35 神威
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3826c5f5-0522-4353-baf7-e1c0c393c457/Untitled.png)
-
 **战技**
 
 快准备喵：从原有的异刃切换的冷却时间缩短 修改为 自动攻击伤害增加100%，作为一个完全特化自动攻击的角色，切换冷却的完全不匹配其特色
 
 #34 花JS
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a101d96-25e7-4637-b6a3-d93f7fefbbc8/Untitled.png)
 
 **属性**
 
@@ -914,8 +878,6 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 转转切割，转转切割前两级cd+1，但是5级cd-2，且倍率统一提升了50，原版一级96、5级192的倍率全游戏最低……
 
 #33 **婆娑罗**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4a08c3d-2627-4697-9c0c-baad75a1cd9a/Untitled.png)
 
 **战技**
 
@@ -931,15 +893,11 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 
 #32 花巴斯塔
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48253f51-34eb-4e3a-bc10-37b196bd49bd/Untitled.png)
-
 **属性**
 
 原版就还算好用，被动叠加盾锤整体增强后基本没什么改动空间
 
 #31 **朱雀**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67928032-3d58-46bc-823c-3403aba1d105/Untitled.png)
 
 **战技**
 
@@ -951,15 +909,11 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 
 #30 尼娅（异刃）
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23553722-e911-4408-a4cd-e98b0979f76f/Untitled.png)
-
 **属性**
 
 所有攻击动画加速25%
 
 #29 凛音
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/afe32748-3c51-4984-bd4b-61caf4ca359d/Untitled.png)
 
 **属性**
 
@@ -974,8 +928,6 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 原版积攒效率过于漫长，而且我印象中这个异刃切换后会把增伤清零，就挺弱智的
 
 #28 **星织**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e35bfc6-5d22-4df1-aae3-094322ca30f7/Untitled.png)
 
 **属性**
 
@@ -993,8 +945,6 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 
 #27 **水分**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b105e52-207d-47ed-b369-2745485dedfe/Untitled.png)
-
 **战技**
 
 觉醒少女 技：从满牵绊加命中改为每次取消增伤10%最高250%
@@ -1002,8 +952,6 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 取消了没啥用的加命中，定位主要通过操作取消叠加伤害、走位打必杀技侧击特效增伤的手操型角色
 
 #26 **纽兹**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2860af1a-bfd8-452b-8691-6d90a8d9947f/Untitled.png)
 
 **属性**
 
@@ -1023,8 +971,6 @@ C级异刃属于中规中矩，虽然能用但是有上位替代，或者能用�
 
 #25 雄黄
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41713b33-ab09-4ae4-b4a9-f3cb53e7f83b/Untitled.png)
-
 **属性**
 
 盾锤整体增强
@@ -1040,8 +986,6 @@ FAS：水生类歧视增伤80%改为牵绊最高时团队伤害提高50%
 改后虽然还是没太大特色，但是伤害面提升了很多，并且增强了团队辅助能力，满牵绊团队减伤加伤，算是个偏防御面的小凯撒领域
 
 #24 鸣
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b99ee26-92eb-43c9-bda3-73358702c90c/Untitled.png)
 
 **属性**
 
