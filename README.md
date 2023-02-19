@@ -127,7 +127,7 @@ Lv4 8>6
 - 改变仇恨降低类技能；如果它确实没什么用就更换成其他特效
 - 弹击球异刃，尤其是火花，现在拥有团队方面的支援技能
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbd23d2-9203-4161-a0d4-adc2382ab639/Untitled.png)
+https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbd23d2-9203-4161-a0d4-adc2382ab639/Untitled.png
 
 - 增加反击技能的倍率+1000%使其更有价值
 
